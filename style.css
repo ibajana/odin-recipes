@@ -1,0 +1,28 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.logo {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.main-img {
+    text-align: center;
+}
+
+.bck {
+    text-align: right;
+}
+.btn .link {
+    color: black;
+}
